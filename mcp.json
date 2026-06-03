@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "web2wave": {
+      "type": "http",
+      "url": "https://mcp.web2wave.com/mcp"
+    }
+  }
+}
